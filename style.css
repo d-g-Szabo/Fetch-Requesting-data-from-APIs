@@ -1,0 +1,17 @@
+* {
+  background-color: aquamarine;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  margin-bottom: 3rem;
+}
+
+img {
+  width: 40%;
+  height: auto;
+}
